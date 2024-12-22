@@ -9,3 +9,6 @@
 - Optimize route for minimize total distance  
 
 Keyword: Heuristic, TSP, CVRP  
+
+Related pages:  
+https://dksek3050.tistory.com/15
